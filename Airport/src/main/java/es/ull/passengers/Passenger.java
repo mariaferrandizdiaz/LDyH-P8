@@ -44,6 +44,7 @@ public class Passenger {
         this.countryCode = countryCode;
     }
 
+    // getters
     public String getIdentifier() {
         return identifier;
     }

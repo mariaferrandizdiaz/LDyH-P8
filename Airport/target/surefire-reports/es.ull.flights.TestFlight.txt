@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: es.ull.passengers.PassengerTest
+Test set: es.ull.flights.TestFlight
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.008 s - in es.ull.passengers.PassengerTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.084 s - in es.ull.flights.TestFlight

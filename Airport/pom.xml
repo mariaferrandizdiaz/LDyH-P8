@@ -15,7 +15,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <sonar.organization>mariaferrandizdiaz</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.login>6300fb5a9e773b4addfabed91387d2c22b12f692</sonar.login>
+        <sonar.login>3107fd0b6e23d173c8383b8249e74e28af1c80f6</sonar.login>
         <sonar.projectKey>LDyH-P7_Airport</sonar.projectKey>
         <sonar.coverage.jacoco.xmlReportPaths>${project.build.directory}/jacoco-coverage/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths> <!-- Configuración JaCoCo para SonarCloud -->
     </properties>

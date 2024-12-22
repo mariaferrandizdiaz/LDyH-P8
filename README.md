@@ -1,6 +1,6 @@
-# LDyH-P7
+# LDyH-P8
 
-## Práctica 7. Pruebas Unitarias JUnit
+## Práctica 8. Integración conntinua
 
 En esta práctica se desarrollan las pruebas unitarias para el proyecto software "Airport". Para ello se hace uno de JUnit 5.0, para las clases 
 1. flights

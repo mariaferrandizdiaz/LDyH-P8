@@ -1,7 +1,0 @@
-es.ull.flights.Flight#<init>(Ljava/lang/String;I)V
-false
-3699e07c2b533d4b4e4b8fd850d7329d
-java.lang.RuntimeException#<init>(Ljava/lang/String;)V
-java.lang.RuntimeException#instance-init#
-java.util.regex.Matcher#matches()Z
-java.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;
